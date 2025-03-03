@@ -1,7 +1,7 @@
 <?php
 
 /* 
-Creator: unknownX
+Creator: unknownX and me
 APIs Provided By: geoiplookup.io and ip-api.com
 */ 
 
